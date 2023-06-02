@@ -1,2 +1,2 @@
 # Newsletter-Signup
-A simple newsletter signup using flexbox in css
+A simple newsletter signup using flexbox (for responsive design)in css
